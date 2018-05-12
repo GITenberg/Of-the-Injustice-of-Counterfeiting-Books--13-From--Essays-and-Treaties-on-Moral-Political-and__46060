@@ -1,0 +1,31 @@
+_repo: Of-the-Injustice-of-Counterfeiting-Books--13-From--Essays-and-Treaties-on-Moral-Political-and__46060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kant, Immanuel
+    aliases:
+    - Kant, Emmanuel
+    - Kant, I. (Immanuil)
+    birthdate: 1724
+    deathdate: 1804
+    gutenberg_agent_id: '1426'
+    url: http://www.gutenberg.org/2009/agents/1426
+    wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
+description: ''
+gutenberg_issued: '2014-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Copyright'
+- !lcc 'K'
+title: "Of the Injustice of Counterfeiting Books\r\nFrom: Essays and Treaties on Moral,\
+  \ Political and various Philosophical Subjects"
+url: http://www.gutenberg.org/ebooks/46060
